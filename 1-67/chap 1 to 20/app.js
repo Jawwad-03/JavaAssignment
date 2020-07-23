@@ -1,4 +1,4 @@
-/*
+
 //Chapter No 1
 //task no 1
 alert("\nTask 1:\n\nHellow! Welcome to my website");
@@ -472,4 +472,3 @@ for (i = 1; i <= 100; i++) {
         document.write(i + ", ");
     }
 }
-*/
