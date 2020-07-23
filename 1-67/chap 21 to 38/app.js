@@ -1,5 +1,5 @@
 
-/*
+
 // Chapter No 21-25
 
 // Task No 1
@@ -750,5 +750,3 @@
 
 // document.write(C + "<br>" + A);
 
-
-*/
